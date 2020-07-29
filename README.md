@@ -1,9 +1,10 @@
 <h1 align='center'>大家好啊~ 这是LemonHX🍋~~</h1>
 
-<h3 align='center'>平时啥不干,没事写代码,兴趣使然,成天弃坑,话说<b>github</b>这markdown啥没有,咋做好看的profile?</h3>
+<h3 align='center'>平时啥不干,没事写代码,兴趣使然,成天弃坑,GITHUB这MARKDOWN啥没有, 做个PROFILE咋这费劲呢?</h3>
 
 <p align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=lemonhx&show_icons=true&icon_color=FFCC33&title_color=FFCC33' />
+    <img src="https://github.com/LemonHX/LemonHX/blob/master/profile-ahri.c38c90.png" width = "300"/>
+    <img src='https://github-readme-stats.vercel.app/api?username=lemonhx&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
 </a>
 
 
