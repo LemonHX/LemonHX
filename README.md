@@ -3,7 +3,7 @@
 <h3 align='center'>平时啥不干,没事写代码,兴趣使然,成天弃坑,GITHUB这MARKDOWN啥没有, 做个PROFILE咋这费劲呢?</h3>
 
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&layout=compact&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
     <img src='https://github-readme-stats.vercel.app/api?username=lemonhx&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
 </a>
 
