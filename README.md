@@ -1,13 +1,13 @@
 <h1 align='center'>大家好啊~ 这是LemonHX🍋~~</h1>
 
-<h3> PingCap 新来的打杂的, 啥正事也不干, 兴趣使然, 成天弃坑 </h3>
+<h3 align='center'> PingCap 新来的打杂的, 啥正事也不干, 兴趣使然, 成天弃坑 </h3>
 
 <p align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&hide=HTML,Javascript&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
     <img src='https://github-readme-stats.vercel.app/api?username=lemonhx&line_height=27&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
 </p>
 
----
+
 
 <p align='center'>
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=CC4400" />
