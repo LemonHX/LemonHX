@@ -1,6 +1,6 @@
 <h1 align='center'>大家好啊~ 这是LemonHX🍋~~</h1>
 
-<h3 align='center'> PingCap 新来的打杂的, 啥正事也不干, 兴趣使然, 成天弃坑 </h3>
+<h3 align='center'> その日、人類は思い出した、C艹に支配されていたの恐怖を…</h3><h3 align='center'>そしてJavaらしいの言語達編まれたの鳥籠の中に囚われいた屈辱を</h3>
 
 <p align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&hide=HTML,Javascript&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
