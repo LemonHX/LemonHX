@@ -3,7 +3,7 @@
 <h3 align='center'> その日、人類は思い出した、C艹に支配されていたの恐怖を…</h3><h3 align='center'>そしてJavaらしいの言語達編まれたの鳥籠の中に囚われいた屈辱を</h3>
 
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&hide=HTML,Javascript&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&hide=HTML,CSS,XSLT&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
     <img src='https://github-readme-stats.vercel.app/api?username=lemonhx&line_height=27&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
 </p>
 
