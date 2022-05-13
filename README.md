@@ -12,8 +12,7 @@
     <img src="https://latex2svg.herokuapp.com/%5CHuge%20%5Cfrac%7Bd%5C%20%F0%9F%8D%88%7D%7Bd%5C%20z%7D%20%5Ctimes%20%5Clog_%7B%F0%9F%98%84%7D%7B%F0%9F%98%85%7D%20%3D%20%F0%9F%8D%89%5C" />
 </p>
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lemonhx&hide=HTML,CSS,XSLT&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
-    <img src='https://github-readme-stats.vercel.app/api?username=lemonhx&line_height=27&show_icons=true&icon_color=FFCC33&title_color=FFCC33'/>
+    <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LemonHX&padding=16&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&show-other-skills=true&bg=white&sort-by-score=true'/>
 </p>
 
 
