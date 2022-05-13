@@ -23,7 +23,7 @@ jobs:
           # Options
           user: LemonHX
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, topics, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # half-year
@@ -39,10 +39,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 31
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_people: yes
