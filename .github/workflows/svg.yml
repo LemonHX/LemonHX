@@ -40,6 +40,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_topics: yes
+          plugin_topics_limit: 12
           plugin_topics_mode: icons
           plugin_people: yes
           plugin_people_types: followers
