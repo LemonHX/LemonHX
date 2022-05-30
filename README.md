@@ -1,10 +1,11 @@
 <h1 align='center'>大家好啊~ 这是LemonHX🍋~~</h1>
 <h3 align='center'> その日、人類は思い出した、C艹に支配されていたの恐怖を…</h3><h3 align='center'>そしてJavaらしいの言語達編まれたの鳥籠の中に囚われいた屈辱を</h3>
 
-- 🐀 痛恨GoLang <del>大概应该只有老鼠人(包括我)会写GoLang, 谁不想做嘉然小姐的老鼠呢?</del>
+- 🐀 痛恨GoLang
+- ☕ 来碗zhawa吗?
 - 🚀 经常从事底层<del>高病发</del>研究
 - 🦀 <del>红烧螃蟹</del>Rust语言用户
-- 🟦 RISC-V忠实粉丝
+- 🇷  RISC-V忠实粉丝
 
 <p align='center'>
     <img src="https://latex2svg.herokuapp.com/%5CHuge%20%5Clog_%7B%F0%9F%98%84%7D%7B%F0%9F%98%85%7D%3D%F0%9F%92%A7%5C" />
