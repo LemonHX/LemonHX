@@ -6,12 +6,6 @@
 - 🚀 经常从事底层<del>高病发</del>研究
 - 🦀 <del>红烧螃蟹</del>Rust语言用户
 - 🇷  RISC-V忠实粉丝
-
-<p align='center'>
-    <img src="https://latex2svg.herokuapp.com/%5CHuge%20%5Clog_%7B%F0%9F%98%84%7D%7B%F0%9F%98%85%7D%3D%F0%9F%92%A7%5C" />
-    <br />
-    <img src="https://latex2svg.herokuapp.com/%5CHuge%7Be%5E%7B%F0%9F%92%A7%5C%20%5C%20%20ln%F0%9F%98%84%7D%7D%5C" />
-</p>
 <p align='center'>
 <img src='https://raw.githubusercontent.com/LemonHX/LemonHX/master/github-metrics.svg' />
 </p>
