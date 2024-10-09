@@ -1,11 +1,12 @@
 <h1 align='center'>大家好啊~ 这是LemonHX🍋~~</h1>
-<h3 align='center'> その日、人類は思い出した、C艹に支配されていたの恐怖を…</h3><h3 align='center'>そしてJavaらしいの言語達編まれたの鳥籠の中に囚われいた屈辱を</h3>
+<h3 align='center'>その日、人類は思い出した、C艹に支配されていたの恐怖を…</h3><h3 align='center'>そしてJavaらしいの言語達編まれたの鳥籠の中に囚われいた屈辱を</h3>
 
-- 🐀 痛恨GoLang
-- ☕ 来碗zhawa吗?
+- 🐀 Golang 狂热爱好者
+- ☕ 来碗 zhawa 吗?
 - 🚀 经常从事底层<del>高病发</del>研究
-- 🦀 <del>红烧螃蟹</del>Rust语言用户
-- 🇷  RISC-V忠实粉丝
+- 🦀 <del>红烧螃蟹</del> Rust 语言用户
+- 🇷 RISC-V 忠实粉丝
+
 <p align='center'>
 <img src='https://raw.githubusercontent.com/LemonHX/LemonHX/master/github-metrics.svg' />
 </p>
