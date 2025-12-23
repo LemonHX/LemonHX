@@ -9,9 +9,6 @@
 <p align='center'>
 <img src='https://raw.githubusercontent.com/LemonHX/LemonHX/master/github-metrics.svg' />
 </p>
-<p align='center'>
-    <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LemonHX&padding=16&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&show-other-skills=true&bg=white'/>
-</p>
 
 
 
@@ -24,7 +21,7 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/QQ-1332127468-green?style=for-the-badge" />    
     <img src="https://img.shields.io/badge/TG-LemonHX-yellow?style=for-the-badge" />    
-    <img src="https://img.shields.io/badge/twitter-lemon_hx-blue?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/twitter-lemonhxmoe-blue?style=for-the-badge&logo=twitter" />
 </p>
 
 ---
